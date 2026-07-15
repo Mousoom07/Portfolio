@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 **Portfolio:** https://portfolio-seven-zeta-76.vercel.app/
+🔗 **Portfolio:** [(https://mousoom-samanta.vercel.app/)](https://mousoom-samanta.vercel.app/)
 
 ---
 
