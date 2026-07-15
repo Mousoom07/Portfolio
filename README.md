@@ -1,97 +1,165 @@
-# ARHAM.exe // PORTFOLIO_V2
+# 🚀 MOUSOOM | Software Developer Portfolio
+
+> A modern Neo-Brutalist developer portfolio showcasing my projects, skills, experience, and achievements with a bold and interactive user experience.
+
+![Portfolio Banner](Assets/images/img.jpg)
+
+## 🌐 Live Demo
+
+🔗 **Portfolio:** [(https://mousoom-samanta.vercel.app/)](https://mousoom-samanta.vercel.app/)
+
+---
+
+# ✨ Features
+
+- 🎨 Modern Neo-Brutalist UI Design
+- 📱 Fully Responsive
+- ⚡ Fast Loading & Optimized
+- 💼 Professional Experience Timeline
+- 🧠 Technical Skills Showcase
+- 🚀 Featured Projects Section
+- 📊 Live GitHub Statistics
+- 🏅 Live LeetCode Badges
+- 📧 Contact Form with Formspree Integration
+- 🌙 Smooth Animations & Scroll Effects
+- 🎯 SEO Optimized
+- 🔥 Interactive Cursor Effects
+
+---
+
+# 🛠️ Tech Stack
+
+### Frontend
+
+- HTML5
+- Tailwind CSS
+- JavaScript (ES6)
+
+### APIs
+
+- GitHub REST API
+- LeetCode Badge API
+- Formspree API
+
+### Deployment
+
+- GitHub
+- Vercel
+
+---
+
+# 📂 Project Structure
 
 ```
-    ___    ____  __  ______    __  ___          ____  ____  ____  __________________  __    ________ 
-   /   |  / __ \/ / / / __ \  /  |/  /         / __ \/ __ \/ __ \/_  __/ ____/ __ \/ /   /  _/ __ \
-  / /| | / /_/ / /_/ / /_/ / / /|_/ /  ______ / /_/ / / / / /_/ / / / / /_  / / / / /    / // / / /
- / ___ |/ _, _/ __  / __  | / /  / /  /_____// ____/ /_/ / _, _/ / / / __/ / /_/ / /____/ // /_/ / 
-/_/  |_/_/ |_/_/ /_/_/ |_| /_/  /_/         /_/    \____/_/ |_| /_/ /_/    \____/_____/___/\____/  
-                                                            
->> SYSTEM_STATUS: ONLINE
->> THEME: NEO_BRUTALISM
->> VERSION: 2.0.0
+Portfolio/
+│
+├── Assets/
+│   ├── images/
+│   ├── Resume/
+│   └── icons/
+│
+├── index.html
+├── README.md
+└── .gitignore
 ```
 
-> **WARNING**: This is NOT a standard portfolio. It is a raw, unfiltered expression of code. No cookies. No trackers. Just pure HTML, CSS, and JS anarchy.
+---
+
+# 📸 Sections
+
+- Hero
+- About Me
+- Tech Stack
+- Experience
+- Coding Statistics
+- Projects
+- Testimonials
+- Contact
+- Footer
 
 ---
 
-## /// MANIFESTO
+# 📬 Contact
 
-**Design is dying.** The web has become a sea of identical, sanitized templates. We are here to break the grid.
-This portfolio embraces **Neo-Brutalism**:
-- High Contrast
-- Raw Typography
-- Asymmetrical Layouts
-- "Ugly" on Purpose
+The portfolio includes a fully functional contact form powered by **Formspree**.
 
-It's not about being pretty. It's about being **BOLD**.
+Features:
 
----
-
-## /// TECH_STACK
-
-| COMPONENT | TECHNOLOGY | STATUS |
-| :--- | :--- | :--- |
-| **CORE** | `HTML5` | [OPTIMIZED] |
-| **STYLING** | `TailwindCSS` | [LOADED] |
-| **SCRIPTING** | `Vanilla JS` | [ACTIVE] |
-| **APIs** | `GitHub API` + `LeetCard` | [STREAMING] |
-| **ICONS** | `Remix Icons` | [LINKED] |
-| **FONTS** | `Space Grotesk` + `JetBrains Mono` | [IMPORTED] |
+- Email Notifications
+- No Backend Required
+- AJAX Submission
+- Success Message
+- Spam Protection
 
 ---
 
-## /// FEATURES_LOG
+# 🚀 Getting Started
 
-### 01. CUSTOM_CURSOR
-> A custom-built cursor that reacts to interactive elements.
-> - **Normal State**: Small crosshair/dot.
-> - **Hover State**: Expands to a Neo-Yellow block with black borders.
-
-### 02. GLITCH_EFFECTS
-> CSS-only glitch animations on hover states.
-> - `mix-blend-mode: difference` for high contrast.
-> - Random translation keyframes for that "broken" feel.
-
-### 03. MARQUEE_SCROLL
-> Infinite scrolling text banners.
-> - Pure CSS animation.
-> - **Direction**: Left-to-Right & Right-to-Left.
-
-### 04. REVEAL_ANIMATION
-> Elements reveal themselves as you scroll.
-> - `IntersectionObserver` API.
-> - Smooth translate-Y transitions.
-
-### 05. CODING_STATS_INTEGRATION
-> Real-time data visualization of development activity.
-> - **Dual-Profile Interface**: Side-by-side GitHub and LeetCode stats.
-> - **Live GitHub API**: Dynamic fetching of Repos, Followers, and Commits.
-> - **LeetCard Integration**: Real-time LeetCode problem-solving heatmap.
-> - **Parallel Layout**: Perfectly balanced columns with mirrored headers and activity matrices.
-
----
-
-## /// FILE_STRUCTURE
+Clone the repository
 
 ```bash
-.
-├── Assets/
-│   ├── images/          # [DIR] Project thumbnails & Avatar
-│   └── Resume/          # [DIR] CV PDF file
-├── index.html           # [FILE] Main Entry Point
-└── README.md            # [FILE] You are here
+git clone https://github.com/Mousoom07/Portfolio.git
 ```
 
-## /// CONTACT_COORDINATES
+Go into the project directory
 
-**TRANSMISSION OPEN:**
-- **MAIL**: `topiwalaarham@gmail.com`
-- **GITHUB**: `Arham43-ops`
-- **LOCATION**: `Remote / Earth`
+```bash
+cd Portfolio
+```
 
-> "I build digital products that refuse to be boring."
+Open
+
+```text
+index.html
+```
+
+or run with Live Server.
 
 ---
-**© 2025 ARHAM.exe // SYSTEM_END**
+
+# 📈 Performance
+
+- Responsive Design
+- Optimized Assets
+- Lightweight
+- SEO Friendly
+- Cross Browser Compatible
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Mousoom Samanta**, a Software Developer passionate about building modern web applications, AI-powered solutions, and intuitive digital experiences.
+
+### Interests
+
+- Web Development
+- Artificial Intelligence
+- Machine Learning
+- UI/UX Design
+- Open Source
+- Full Stack Development
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mousoom-samanta-bb4b15348/
+- 💻 GitHub: https://github.com/Mousoom07
+- 📧 Email: mousoomsamanta07@gmail.com
+- 🧩 LeetCode: https://leetcode.com/u/Mousoom07/
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+---
+
+## Made with ❤️ by Mousoom Samanta
